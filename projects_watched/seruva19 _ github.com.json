@@ -1,0 +1,74 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 18, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "cc01dd6fd64490f70ff2c9db40deab1e6555be9b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 17, 2023",
+      "commit_title": "change filename scheme of saved imag",
+      "commit_id": "468e1132d9eb88fea2d397ed426ef59809bd190d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 16, 2023",
+      "commit_title": "update requirements.t",
+      "commit_id": "ce30ef799da0aff167f1638614f37597d5ffc3af"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 15, 2023",
+      "commit_title": "modify update scrip",
+      "commit_id": "f1b9bc40abd309bc0612a3918bd6263933e1fca5"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 14, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "7bfe32a7ee18f3ace8b43ef9dfead8569b9fbe6e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 13, 2023",
+      "commit_title": "add small UI chang",
+      "commit_id": "1267cb955a48b50c1d96ad484e2e9d1367357db8"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 12, 2023",
+      "commit_title": "remove deprecated batch fi",
+      "commit_id": "f38a9a9b9ca4f9966e5d4a4dd640a43a3e86c1d7"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    }
+  ],
+  "link": "https://github.com/seruva19/kubin",
+  "repo_name": "seruva19",
+  "author_name": "github.com",
+  "file_url": "projects_watched/seruva19 _ github.com.json"
+}

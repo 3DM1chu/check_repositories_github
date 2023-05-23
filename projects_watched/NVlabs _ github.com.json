@@ -1,0 +1,164 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 14, 2023",
+      "commit_title": "ImGuizmo: IMGUI_DEFINE_MATH_OPERATORS before imgui",
+      "commit_id": "e45134b9bcf50d0c04f27bc3ab3cde57c27f5bc8"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 6, 2023",
+      "commit_title": "Remove scripts from binary release that only when compiling the Pyth",
+      "commit_id": "e99d6d7888c9aa1a43e69fc785dcc1f1a1b23c1b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 5, 2023",
+      "commit_title": "Add standalone script for masking images with detectro",
+      "commit_id": "20e2df135fcf5defd365e1cb1902a94a2d01768a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 4, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "76db82a7b38ac5c29ffc1aeefee69058991cb677"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 1, 2023",
+      "commit_title": "run.py: fix camera smoothing with custom frame ran",
+      "commit_id": "fa7272627081a0213ba5120101f0762dcf80bf3c"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 25, 2023",
+      "commit_title": "run.py: add option to render video with custom frame ran",
+      "commit_id": "48b393ed10b999020491c2c7105aa22c46eaa3f4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 23, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "d0d35d215c7c63c382a128676f905ecb676fa2b8"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 21, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "a22389efec627e86013a3ad5c75b23e16dd38f1e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 15, 2023",
+      "commit_title": "Bring back log-space camera matrix interpolation (feature parity wit",
+      "commit_id": "d648d473ae2e340169eb88c4a0346967229fdd57"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 14, 2023",
+      "commit_title": "Remove video loop animation option from run.py (is now part of camer",
+      "commit_id": "4505b815b0252cdf815ea5d426a5c3b56549d512"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 9, 2023",
+      "commit_title": "Fix broken RGBA slice / volume paths when dataset is an explicit jso",
+      "commit_id": "256f7c06eb3b61d538e87b8401df9bc2b4d60d58"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 8, 2023",
+      "commit_title": "Fix crash upon saving RGBA slices / volume with per-image laten",
+      "commit_id": "00754afc1fbb933c6cefc020f6c4efbb4e1c9a1b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 6, 2023",
+      "commit_title": "Avoid NaN and infinities in exported me",
+      "commit_id": "ab55b5a7fbc47952437c83ad97ff6d47b6a688c6"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 1, 2023",
+      "commit_title": "Fix regression in camera path edit",
+      "commit_id": "aab2886bcb96b725c1f3a0e7f3e411ae4921a1d4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 27, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "9129d680bea305d457214c3e4ed45bca8ded6b86"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 23, 2023",
+      "commit_title": "Tweak default config a bit furth",
+      "commit_id": "298ce96c322334df0d9c78cd3091796d58d12a24"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 22, 2023",
+      "commit_title": "Visualize per-image latents with 2D embeddi",
+      "commit_id": "3cae563bca1216825873cfdc5af6732eec40946c"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    },
+    {
+      "py/id": 13
+    },
+    {
+      "py/id": 14
+    },
+    {
+      "py/id": 15
+    },
+    {
+      "py/id": 16
+    },
+    {
+      "py/id": 17
+    },
+    {
+      "py/id": 18
+    }
+  ],
+  "link": "https://github.com/NVlabs/instant-ngp",
+  "repo_name": "NVlabs",
+  "author_name": "github.com",
+  "file_url": "projects_watched/NVlabs _ github.com.json"
+}

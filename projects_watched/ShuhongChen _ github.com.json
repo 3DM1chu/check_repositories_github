@@ -1,0 +1,56 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 22, 2023",
+      "commit_title": "Update readme.",
+      "commit_id": "d2cb8a0abbb523a91809d1522f6c44131ff14cec"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 8, 2023",
+      "commit_title": "issue 8 fix",
+      "commit_id": "f0b18007c3c55f7a1a2d186f950f157924ce1cd7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 28, 2023",
+      "commit_title": "add arxiv li",
+      "commit_id": "ce20c2ae0d685e5062466310f964ed8774689f5a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 25, 2023",
+      "commit_title": "add talking he",
+      "commit_id": "782ad117bd5dab58b792589184caf9846043c8af"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 24, 2023",
+      "commit_title": "markup de",
+      "commit_id": "61238c3bb2154abc85bb422bdd1a62a176c16728"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    }
+  ],
+  "link": "https://github.com/ShuhongChen/panic3d-anime-reconstruction",
+  "repo_name": "ShuhongChen",
+  "author_name": "github.com",
+  "file_url": "projects_watched/ShuhongChen _ github.com.json"
+}

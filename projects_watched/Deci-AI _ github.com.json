@@ -1,0 +1,164 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 23, 2023",
+      "commit_title": "Added CoreML export notebook & method for Apple devices.",
+      "commit_id": "a9cee54569c552851e54beba7739c618f90c5830"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 22, 2023",
+      "commit_title": "Feature/infra 000 nightly",
+      "commit_id": "a59449726e1d55f68c96b7be24f8a00a126b59e0"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 21, 2023",
+      "commit_title": "Fixed missing encoding (Iss",
+      "commit_id": "75999fba8dc02b45a8d08dadac3c0f65657ceb48"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 18, 2023",
+      "commit_title": "Fix doc",
+      "commit_id": "0876673ae96bc3eb7ab3b7f226c8435e1a2f5d2d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 17, 2023",
+      "commit_title": "Proposal of issue template",
+      "commit_id": "a30fa8fdc623533df785831f7457967066fb2ebe"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 16, 2023",
+      "commit_title": "Predict on fused model",
+      "commit_id": "363c34adbffbb25398b65830d9a878e3af2236e3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 15, 2023",
+      "commit_title": "Cityscapes AutoLabelling dataset",
+      "commit_id": "b4608f618a60de1504211f75e14f9fc7ade2874a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 14, 2023",
+      "commit_title": "changed requirement",
+      "commit_id": "ae744b65ebce23ac4ad2fc55ae9387f0f955ddd3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 11, 2023",
+      "commit_title": "empty mask",
+      "commit_id": "f5cfccc8c7ef6ebdcb44c0944b723b699b0fd7d7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 10, 2023",
+      "commit_title": "fix",
+      "commit_id": "cb3ea56a0e18bbaa26ab572b47b78ddb3f7d9575"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 9, 2023",
+      "commit_title": "Add detection prediction tutorial",
+      "commit_id": "a3c373369096f5d983acbad1bd26b4f930325244"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 8, 2023",
+      "commit_title": "Fix typo in welcome.html",
+      "commit_id": "551411faead5f4f1f53f75a13bcf72d65049572f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 7, 2023",
+      "commit_title": "fix",
+      "commit_id": "a3cec565d8a7ddcc8e802ecce715e137acffd248"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 5, 2023",
+      "commit_title": "Update the notebooks to install super_gradients==3.1",
+      "commit_id": "ceaff3cd73e707b516bfd48061af773e635333d1"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 4, 2023",
+      "commit_title": "Update of PoseEstimation model",
+      "commit_id": "ccbf0158fbfa5dcba95ca0303082ddf940acf119"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 3, 2023",
+      "commit_title": "bump version",
+      "commit_id": "1c67ce369b53daf162a91faacb24f3501e7b84ad"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 2, 2023",
+      "commit_title": "Update links to notebooks and to Discord community",
+      "commit_id": "0750c0df212f0596f3db1bab2457a793c2e05970"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    },
+    {
+      "py/id": 13
+    },
+    {
+      "py/id": 14
+    },
+    {
+      "py/id": 15
+    },
+    {
+      "py/id": 16
+    },
+    {
+      "py/id": 17
+    },
+    {
+      "py/id": 18
+    }
+  ],
+  "link": "https://github.com/Deci-AI/super-gradients",
+  "repo_name": "Deci-AI",
+  "author_name": "github.com",
+  "file_url": "projects_watched/Deci-AI _ github.com.json"
+}

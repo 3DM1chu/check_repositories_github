@@ -1,0 +1,65 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 14, 2023",
+      "commit_title": "Merge branch 'release_candidat",
+      "commit_id": "89f9faa63388756314e8a1d96cf86bf5e0663045"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 13, 2023",
+      "commit_title": "update read",
+      "commit_id": "d7e9ac2aff6bfd3c03f9d50a98e31468fd34a77f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 11, 2023",
+      "commit_title": "fix broken prompts from fi",
+      "commit_id": "8ca50f8240fc1b4400ba59be50ad7a75b99cfbcb"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 10, 2023",
+      "commit_title": "bump torch versi",
+      "commit_id": "f5ea1e9d928e0d45b3ebcd8ddd1cacbc6a96e184"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 9, 2023",
+      "commit_title": "Merge branch 'dev' into release_candida",
+      "commit_id": "c8791c1d37502f162b8616b066303bfadc4a749b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 8, 2023",
+      "commit_title": "add links to wiki for filename pattern settin",
+      "commit_id": "2b96a7b694d3392f76940dfe5df895a2833400fb"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    }
+  ],
+  "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "repo_name": "AUTOMATIC1111",
+  "author_name": "github.com",
+  "file_url": "projects_watched/AUTOMATIC1111 _ github.com.json"
+}

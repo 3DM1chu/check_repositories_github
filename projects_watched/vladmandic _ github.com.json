@@ -1,0 +1,56 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 22, 2023",
+      "commit_title": "api auth overri",
+      "commit_id": "beff89bad3b12fb1e114b8fd20dc4d1e4f87d72b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 21, 2023",
+      "commit_title": "minor updat",
+      "commit_id": "d647bb5c052277ec48d5c1858a52d4b6de30e8f1"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 20, 2023",
+      "commit_title": "clean",
+      "commit_id": "b6289d56c744ae9d0d16aaa1f503f0ea2ff76ec1"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 19, 2023",
+      "commit_title": "add parser to infote",
+      "commit_id": "794b23cc2bb85c6d96483c0f1a54c759d5e8b23d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 18, 2023",
+      "commit_title": "update pars",
+      "commit_id": "527dc0eedf209f29cf9380a8d925b520cc3d4878"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    }
+  ],
+  "link": "https://github.com/vladmandic/automatic",
+  "repo_name": "vladmandic",
+  "author_name": "github.com",
+  "file_url": "projects_watched/vladmandic _ github.com.json"
+}

@@ -1,0 +1,65 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 21, 2023",
+      "commit_title": "Update homepage with 4.4.2 relea",
+      "commit_id": "ccce219e7bb1fd7185bdf77fca319ceb819f8936"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 11, 2023",
+      "commit_title": "Fix misspelling in CHANGEL",
+      "commit_id": "ef7906c5ef25dff939e7f019e9378aebd28f596f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 10, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "f8354b3acf112c2a2060649a85f2ee81a81e5de4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 9, 2023",
+      "commit_title": "Added a comments and method paramete",
+      "commit_id": "b38cd21c81ac900815c0cde206e7dfcab55ad402"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 7, 2023",
+      "commit_title": "SPARKNLP-832 Extracting MatchStrategy as a single object and adding ",
+      "commit_id": "a3c3061fd937a229b2c8347902f905bc3555b4c9"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 6, 2023",
+      "commit_title": "Updated API to support caching in the BartTransform",
+      "commit_id": "fd3a03f18a911a31eff5504f6a5dc253cf6c808f"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    }
+  ],
+  "link": "https://github.com/JohnSnowLabs/spark-nlp",
+  "repo_name": "JohnSnowLabs",
+  "author_name": "github.com",
+  "file_url": "projects_watched/JohnSnowLabs _ github.com.json"
+}

@@ -1,0 +1,83 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 12, 2023",
+      "commit_title": "Readme - spelling correction - annnotati",
+      "commit_id": "b3a0968d6d2cd35e92e611c39525c50d72866eca"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 8, 2023",
+      "commit_title": "Update Hugging Face li",
+      "commit_id": "b10803c295ae2f46506471f4b1a8bee5e4e09c2f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 6, 2023",
+      "commit_title": "Merge branch 'master' of github.com:gaomingqi/Track-Anythi",
+      "commit_id": "322ae43757c1783e5a3374d2df198bc4c925ec85"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 5, 2023",
+      "commit_title": "update README.",
+      "commit_id": "3aa5f67986907dcd0f8b93037945935985170b4b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 1, 2023",
+      "commit_title": "add badge for tutoria",
+      "commit_id": "65588bb237934ea07b079ef9f08e913d9aeb7477"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 28, 2023",
+      "commit_title": "add link for gpu memory requiremen",
+      "commit_id": "b26b7fec95dbd9a51f3f897826f7bb3b12bee614"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 27, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "b2a18e29e40cd4f5184a76e3b7416076883d8765"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 26, 2023",
+      "commit_title": "set the max memory usage 90 and add highlighted text -- ",
+      "commit_id": "6d3925046a26cbb2219645ed6ecc1bae487da5f7"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    }
+  ],
+  "link": "https://github.com/gaomingqi/Track-Anything",
+  "repo_name": "gaomingqi",
+  "author_name": "github.com",
+  "file_url": "projects_watched/gaomingqi _ github.com.json"
+}

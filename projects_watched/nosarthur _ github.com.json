@@ -1,0 +1,209 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 19, 2023",
+      "commit_title": "change path in the subprocess call",
+      "commit_id": "94f1617d857d1a193f46c6559aab3751cd3f444f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 30, 2023",
+      "commit_title": "bump vertion to 16.2",
+      "commit_id": "619926e68c769133bdc5b5bae7c0aa65782a4c50"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 31, 2023",
+      "commit_title": "Fix color printing for Python 3.11",
+      "commit_id": "63894703d53b30034161ef81171724bd2f3c9503"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 30, 2023",
+      "commit_title": "dev install for github workfl",
+      "commit_id": "fd6295c0db1279bcc5d09f04f3dc534616f334a4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Sep 14, 2022",
+      "commit_title": "feat(common): env variable for config at project level",
+      "commit_id": "9b457fee40be3d4e4144e9c17015c2b4f1c7b2f9"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 6, 2022",
+      "commit_title": "skip invalid repo when reading groups.csv",
+      "commit_id": "d745200dbcd034fb2818ceda2b80c05ef7d0aa28"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 2, 2022",
+      "commit_title": "fix relative path calculation on Windows",
+      "commit_id": "1ad0bde23a2f5276ab785c4c83c7fa18c261dbe6"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 30, 2022",
+      "commit_title": "reimplement gita clo",
+      "commit_id": "4842ae155543728a6c522c321de5c88f659a18d5"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 29, 2022",
+      "commit_title": "add clear command",
+      "commit_id": "43547252f5e70ea901e671daf102237a5821817a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 26, 2022",
+      "commit_title": "add option -q for gita super and gita shell",
+      "commit_id": "cc3e4ee7fbdc5e292360a33128317318b78c1296"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 25, 2022",
+      "commit_title": "add dry run option for gita add",
+      "commit_id": "5e3c436e6669ddafe5820080547d9f6effb686b7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 9, 2022",
+      "commit_title": "update video outline ima",
+      "commit_id": "faf1a86fccbedfc7b671763c10c432beb7527abe"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 5, 2022",
+      "commit_title": "fix bash auto completi",
+      "commit_id": "5166e98023301d2671524964ce9f525d743f1a20"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 3, 2022",
+      "commit_title": "minor edits on read",
+      "commit_id": "4fcaa47e59e9cc1f1441427b3d8c726501fb9204"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 27, 2021",
+      "commit_title": "minor clean ",
+      "commit_id": "db78929be4c3b34aa6082d3179faf45863c7b875"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 25, 2021",
+      "commit_title": "add option to skip submodule repo in gita add",
+      "commit_id": "4fed757126ccdb5750d2f3cf4b71659d9d475196"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 16, 2021",
+      "commit_title": "write empty file using Path().write_text()",
+      "commit_id": "2b79bd66db9c6a05ea0537f6b08d83a6498af94d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 26, 2021",
+      "commit_title": "add youtube vid",
+      "commit_id": "6d448419c73ba0aa4f61b83a3456a35a7a2ddc7a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 2, 2021",
+      "commit_title": "update read",
+      "commit_id": "66015e814eba8896730c4acf9f01c248c32b3c18"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 20, 2021",
+      "commit_title": "update codecov workfl",
+      "commit_id": "5e59a36a3489d9d78cdc749a6aa03a8d4a72c752"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 1, 2021",
+      "commit_title": "fix bug: only add new repos to gro",
+      "commit_id": "09e6f755c95764ada1ca0e677aa74e49c32f5ab4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Sep 13, 2021",
+      "commit_title": "clean up shell and super parsing",
+      "commit_id": "9f9d72589ea65d645ee4b2e2f9fd5918991dba7f"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    },
+    {
+      "py/id": 13
+    },
+    {
+      "py/id": 14
+    },
+    {
+      "py/id": 15
+    },
+    {
+      "py/id": 16
+    },
+    {
+      "py/id": 17
+    },
+    {
+      "py/id": 18
+    },
+    {
+      "py/id": 19
+    },
+    {
+      "py/id": 20
+    },
+    {
+      "py/id": 21
+    },
+    {
+      "py/id": 22
+    },
+    {
+      "py/id": 23
+    }
+  ],
+  "link": "https://github.com/nosarthur/gita",
+  "repo_name": "nosarthur",
+  "author_name": "github.com",
+  "file_url": "projects_watched/nosarthur _ github.com.json"
+}

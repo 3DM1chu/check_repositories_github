@@ -1,0 +1,148 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 20, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "94c404b5b4290624bed933cf0546abd07214d93d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 14, 2022",
+      "commit_title": "Add Meta Package Manag",
+      "commit_id": "ad6e828738133c40a9b0d9b16f7c7402e4ad7517"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 5, 2022",
+      "commit_title": "Fix Savi and",
+      "commit_id": "e3c270538c0379795ea67bd56ee353c13e73801d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 18, 2022",
+      "commit_title": "Merge pull reque",
+      "commit_id": "63326f686d7b6bd02334af69903295ef924a701a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 14, 2022",
+      "commit_title": "chocolatey installation url f",
+      "commit_id": "b9e219fe486cc915ebada2a07c97ba199a23794d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 18, 2022",
+      "commit_title": "Merge pull reque",
+      "commit_id": "f7e47af2b498d49a74b6b4b59b2f7829274c1f2f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 17, 2022",
+      "commit_title": "bash: Adde",
+      "commit_id": "faa62d527bd3a3918d0d60fa08e9a1fde3fc388e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Aug 3, 2022",
+      "commit_title": "go: Added go.d",
+      "commit_id": "6a54340ec0bedfc1f61956592ef389724aa2ec51"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jul 28, 2022",
+      "commit_title": "Fixed codeedit bad",
+      "commit_id": "ccad2823ae8d3cdc38ea0dfd88d38bb82aaeeba9"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jul 12, 2022",
+      "commit_title": "cl: Added CookBo",
+      "commit_id": "9a6924f02c085e57ffeac823737d02144582f057"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jul 8, 2022",
+      "commit_title": "Added py:pyst",
+      "commit_id": "56caf8d5157b261651aa2b0689d21d2f8802d3b9"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 30, 2022",
+      "commit_title": "lang4: Added rubini",
+      "commit_id": "dc7d6b961495f0145bea4b7fabd5dba08815d928"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 16, 2022",
+      "commit_title": "editor: Added z",
+      "commit_id": "15845378033b94437a0cbf8852f9a6616afc7487"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 28, 2022",
+      "commit_title": "lang4: Added ha",
+      "commit_id": "5e8fd8f558fd7bcfcbab4049a8adbc305d754763"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 20, 2022",
+      "commit_title": "lang4: Added Gra",
+      "commit_id": "7115da146c9a1096bc1a0e780729fb718ce8f065"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 13, 2022",
+      "commit_title": "lang: Added savi-la",
+      "commit_id": "2a846f517b7589c612cc54015962adc48823621c"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 12, 2022",
+      "commit_title": "editor: Added CodeEd",
+      "commit_id": "9f513789a3aa0ee5c5241557088258a3439a9cfc"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 7, 2022",
+      "commit_title": "cl: Added ci",
+      "commit_id": "fee6e639466c95354680dab6b0d9add74a18c009"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 12, 2022",
+      "commit_title": "Merge pull reque",
+      "commit_id": "efb9861c4053cfa908ebb03ff2c6b6c93b5b579d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 11, 2022",
+      "commit_title": "Add Fortran Package Manager & FPM Regist",
+      "commit_id": "87a76c5d12ae6017f74cfc47ce2883c4b737571a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 14, 2021",
+      "commit_title": "editor/Kakoune: new edit",
+      "commit_id": "d2e439e42fcc21853019de084b633a794c653a92"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 30, 2021",
+      "commit_title": "clj-like/phel: new la",
+      "commit_id": "acfd5c60aa9ff18c496a50315193f48e2cecd894"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 26, 2021",
+      "commit_title": "mocl: move to ",
+      "commit_id": "9a5bb81494d75329fd1297df3b1d475580974b3d"
+    }
+  ],
+  "new_commits": [],
+  "link": "https://github.com/damon-kwok/awesome-package-manager",
+  "repo_name": "awesome-package-manager",
+  "author_name": "damon-kwok",
+  "file_url": "projects_watched/awesome-package-manager _ damon-kwok.json"
+}

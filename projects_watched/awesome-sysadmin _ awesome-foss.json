@@ -1,0 +1,74 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 17, 2023",
+      "commit_title": "delegate Code Review section to awesome-selfhosted",
+      "commit_id": "79282c908bd870b964fca125bac272af9a8f55eb"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 7, 2023",
+      "commit_title": "Remove archipel (unmaintained since 2016)",
+      "commit_id": "6a085bbbed1e32e1454fa95c051a185698f98b78"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 6, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "57e4a5d6633433f67ede932c2ad7f9cfdeaf1a56"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 5, 2023",
+      "commit_title": "fix link for Remmina",
+      "commit_id": "83176c5d00918db564a38b10323ce383d022deef"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 19, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "47880c94ceaf13e6c02f030cd360fe9d57f7f947"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 17, 2023",
+      "commit_title": "Format 'Automation' section",
+      "commit_id": "c26ff823e0830994062a5ee61db534292f4443ca"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 15, 2023",
+      "commit_title": "add dashdot to Monitori",
+      "commit_id": "93d7fc6ab814109bd47ad9f83d9b6eb63424a686"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    }
+  ],
+  "link": "https://github.com/awesome-foss/awesome-sysadmin/",
+  "repo_name": "awesome-sysadmin",
+  "author_name": "awesome-foss",
+  "file_url": "projects_watched/awesome-sysadmin _ awesome-foss.json"
+}

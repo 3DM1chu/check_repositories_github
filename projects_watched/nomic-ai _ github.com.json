@@ -1,0 +1,34 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 28, 2023",
+      "commit_title": "metrics run on configs n",
+      "commit_id": "4e8e7e730027a7d7f3811e310053def4c0c55217"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 27, 2023",
+      "commit_title": "removed s",
+      "commit_id": "d5769d761438f5d36305138a6c020bffa3238ed7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 26, 2023",
+      "commit_title": "fix: don't rewrite clean file if exist",
+      "commit_id": "dfee6963a1839366b3b5307b72f866c6e5529c3e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 25, 2023",
+      "commit_title": "fix: update to how to tra",
+      "commit_id": "2ac939529d840d37c34849d6a7b2594b1fc2a8d0"
+    }
+  ],
+  "new_commits": [],
+  "link": "https://github.com/nomic-ai/gpt4all",
+  "repo_name": "nomic-ai",
+  "author_name": "github.com",
+  "file_url": "projects_watched/nomic-ai _ github.com.json"
+}

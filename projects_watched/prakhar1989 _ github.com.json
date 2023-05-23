@@ -1,0 +1,119 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 12, 2022",
+      "commit_title": "Added course on principles of programming languages",
+      "commit_id": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 31, 2022",
+      "commit_title": "Update README.",
+      "commit_id": "ea68b7b858047246dd3707d2026d777808d0c7ac"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 19, 2022",
+      "commit_title": "Tidy up spac",
+      "commit_id": "7040cf7fca83b0e72968f0de4a234babdd8787c3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 7, 2022",
+      "commit_title": "Merge pull reque",
+      "commit_id": "0aa8b5dda747c82fd7098e6cb2be46b7d44b8711"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 6, 2022",
+      "commit_title": "Added lecture videos for CS 6",
+      "commit_id": "258df18e71e355cee00713b2d523d607e530ecbf"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 2, 2020",
+      "commit_title": "Merge pull reque",
+      "commit_id": "43d8a150ba4ae3d374da22db17685153a4a1eb1c"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 29, 2020",
+      "commit_title": "Fix dead link of Fundamentals of Networ",
+      "commit_id": "5512213b44626c4c497939e0309c4c7684b1dc20"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 13, 2020",
+      "commit_title": "Merge pull reque",
+      "commit_id": "f21353ad6bdbb6939fc360403a9adcc668bf7c16"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 9, 2020",
+      "commit_title": "Fix URL for CMU 14-740 course websi",
+      "commit_id": "a3cdac62a536d28ba9a0a2f767790a7088dcd274"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Oct 15, 2019",
+      "commit_title": "Add Embedded Systems cour",
+      "commit_id": "62992c04875ed6e82e3a40a05fb9a599bdadb2c3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 27, 2019",
+      "commit_title": "add 15-410 -- C",
+      "commit_id": "85916944c1cea1ecc9e788288620d8cfd4337ab2"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 16, 2019",
+      "commit_title": "Merge pull reque",
+      "commit_id": "4609a350f0bfcfcb3497a51f0388e53532d19521"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    },
+    {
+      "py/id": 13
+    }
+  ],
+  "link": "https://github.com/prakhar1989/awesome-courses",
+  "repo_name": "prakhar1989",
+  "author_name": "github.com",
+  "file_url": "projects_watched/prakhar1989 _ github.com.json"
+}

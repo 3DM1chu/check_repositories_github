@@ -1,0 +1,83 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 23, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "18c2b4f36533be08bb8aae2fbe4e40117061a1c9"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 17, 2023",
+      "commit_title": "Update Training Instructio",
+      "commit_id": "78cb3a760c154fd309e8c27440c7c2f3f104bb4c"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 4, 2023",
+      "commit_title": "Update validation lo",
+      "commit_id": "f8c08ff062a5034d2665fb95332214c458143388"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 30, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "2cd6f3c1b74c73190277a1e6fd0dc92f2296e60e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 28, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "4aec2882839000fbdbca50b8edf4f1df1cadd7af"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 26, 2023",
+      "commit_title": "Update requirements for TAN",
+      "commit_id": "493be0deac68672ac20e82abbc103d245aba4423"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 25, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "3f13e3211430a424fa26b85c3494813ae778ee4a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 24, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "f82de9e2c3d7c40a107499e3f10775b0c211ab0a"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    }
+  ],
+  "link": "https://github.com/declare-lab/tango",
+  "repo_name": "declare-lab",
+  "author_name": "github.com",
+  "file_url": "projects_watched/declare-lab _ github.com.json"
+}

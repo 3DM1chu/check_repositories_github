@@ -1,0 +1,254 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 17, 2023",
+      "commit_title": "[BugFix] Remove print statements from challengeListCtrl",
+      "commit_id": "0a2c93dc75c882a3a9865599d04f09b5c5a3ab4a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 16, 2023",
+      "commit_title": "[Frontend] Upgrade nodejs node version",
+      "commit_id": "6a2e06a159355aac9678cce9b9746775d1937387"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 14, 2023",
+      "commit_title": "[Frontend] Fix async update of challenge list params",
+      "commit_id": "87ad329dfbc2a54b5bcff58eb4919ea0584e5b85"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 10, 2023",
+      "commit_title": "[Frontend] Fix frontend pagination for challenge list",
+      "commit_id": "be3493027ddfa266e33c6b3ed00b143009085b5d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 25, 2023",
+      "commit_title": "[Worker] Fetch logs for all terminated pods for code upload challenge",
+      "commit_id": "59013e6c37829a649060653408fb230bae57f141"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 18, 2023",
+      "commit_title": "[BugFix] Fix representation in submission serializer",
+      "commit_id": "a78399d3a74bec70969e1e392e133784ee55d89d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 11, 2023",
+      "commit_title": "[Backend] Add exception handling for get all challenges API",
+      "commit_id": "923fbf92a9d08c8659e9c548b28ba8196ffe7578"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 6, 2023",
+      "commit_title": "[Frontend] Remove upload submission through file U",
+      "commit_id": "56be5298fc84b1e317335c6687425b6e4152cfdb"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 19, 2023",
+      "commit_title": "[Worker] Expose Environment Logs for Challenge Hosts",
+      "commit_id": "fbfc7f04cf8570704fd41808c0c5f5cfed518505"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 15, 2023",
+      "commit_title": "[Monitoring] Add dangling docker image clean up script",
+      "commit_id": "6321c2d8a9dfb2f37328818cb18a9e2fff5afcdf"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 14, 2023",
+      "commit_title": "[Backend] Add cpu code upload attributes to serializers",
+      "commit_id": "7bfa94665be8e59ca7961cf9c98c0f31712003b7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 3, 2023",
+      "commit_title": "[Worker] Upgrade EKS Kubernetes version",
+      "commit_id": "19130726790e4cb79b0d2e8603dd6817b16dba69"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 21, 2023",
+      "commit_title": "[Docs] Add docs for static code-upload challenge",
+      "commit_id": "33a55eab8ed542a941e61aa12b21d57c3571cd79"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 19, 2023",
+      "commit_title": "[Docs] Improve docs for code-upload challenges",
+      "commit_id": "03fd174c73f6c20e4cb706c2a851ff4214b62af5"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 17, 2023",
+      "commit_title": "[BugFix] Add statsd env variable to code upload task definition",
+      "commit_id": "b5252ceebd4aafc212673d2a853192f40d82bd68"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 16, 2023",
+      "commit_title": "[Worker] Update code upload worker requirements",
+      "commit_id": "6e38d22411c10d750a1f410d5b083d2be96f9532"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 14, 2023",
+      "commit_title": "[Worker] Fix statsd increment import",
+      "commit_id": "7a5237fbfe0be533bedb48b3573cf43274962a48"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 12, 2023",
+      "commit_title": "[Monitoring] Update limits in EKS auto scaling script",
+      "commit_id": "4a07138dbb5f07dc8a6a74dd79f8b09723280928"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Feb 10, 2023",
+      "commit_title": "Fix auto scaling EKS script",
+      "commit_id": "caefcf652601bbb5a2a7fdb10b31e899c3e5b8ca"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 22, 2023",
+      "commit_title": "[BugFix] Use phase split in challenge config validaton",
+      "commit_id": "7057c5848a3b35d53dea3c932c92dfee2bf9893c"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 20, 2023",
+      "commit_title": "[BugFix] Update attributes for challenge phase split",
+      "commit_id": "929306048c62f7d569225ed4c06ceb982c6b7e4d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 3, 2023",
+      "commit_title": "[Deployment] Separate monitoring deployment",
+      "commit_id": "16e94b38430ab20885bcff40e045f2152ae77819"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jan 2, 2023",
+      "commit_title": "[Docs] Fix typo in remote evaluation challenge docs",
+      "commit_id": "e465e59c760ae910e3000095b581c9b4f4f5a16f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 28, 2022",
+      "commit_title": "[Frontend[ Show remote evaluation meta on manage tab",
+      "commit_id": "96fdfd47dac28681d347621e91b3f8019b3802ef"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 26, 2022",
+      "commit_title": "[Documentation] Add remote challenge evaluation setup docs",
+      "commit_id": "072f47127e120acff26f433321e2d764f3aac3d5"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 25, 2022",
+      "commit_title": "[BugFix] Show leaderboard watermark on staging",
+      "commit_id": "a5bd073457567ea6ee997150e6230f1960b58a7e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 22, 2022",
+      "commit_title": "[Backend] Improve checks in validate challenge config API",
+      "commit_id": "f4b510a55a5e2377d755b70f5a4c1886fdcc68a7"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    },
+    {
+      "py/id": 13
+    },
+    {
+      "py/id": 14
+    },
+    {
+      "py/id": 15
+    },
+    {
+      "py/id": 16
+    },
+    {
+      "py/id": 17
+    },
+    {
+      "py/id": 18
+    },
+    {
+      "py/id": 19
+    },
+    {
+      "py/id": 20
+    },
+    {
+      "py/id": 21
+    },
+    {
+      "py/id": 22
+    },
+    {
+      "py/id": 23
+    },
+    {
+      "py/id": 24
+    },
+    {
+      "py/id": 25
+    },
+    {
+      "py/id": 26
+    },
+    {
+      "py/id": 27
+    },
+    {
+      "py/id": 28
+    }
+  ],
+  "link": "https://github.com/Cloud-CV/EvalAI/",
+  "repo_name": "EvalAI",
+  "author_name": "Cloud-CV",
+  "file_url": "projects_watched/EvalAI _ Cloud-CV.json"
+}

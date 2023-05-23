@@ -1,0 +1,52 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 23, 2023",
+      "commit_title": "CI: set base repo befo",
+      "commit_id": "9c7f5671e6ce666d5410900b7f350a59853ba6b9"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 22, 2023",
+      "commit_title": "Improve Azure setup wording in docs",
+      "commit_id": "cc709bbbaae6704794ca077ad26e29f703a7d26f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 21, 2023",
+      "commit_title": "Update 1.bug.yml to improve consistency of data",
+      "commit_id": "dcb1cbe5d69a15dc83ba20583c210ef8fc490c50"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 20, 2023",
+      "commit_title": "Fix",
+      "commit_id": "57ea7b5216918c43bb89766cf152ccfa58fb8d77"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 19, 2023",
+      "commit_title": "Added unittest cases for commands/audio_text.py",
+      "commit_id": "7e21f38185a881c10cc3ffcd7d1ad9b27e78a566"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 18, 2023",
+      "commit_title": "Prevent test collection errors in devcontainer",
+      "commit_id": "5b4bcf1a04585bc0cc511e3a089c6325657bff08"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 17, 2023",
+      "commit_title": "Logs output to console if we're not on speak mode",
+      "commit_id": "19767ca4a4d19fc915c8bdd88d9409263c1970cd"
+    }
+  ],
+  "new_commits": [],
+  "link": "https://github.com/Significant-Gravitas/Auto-GPT/",
+  "repo_name": "Auto-GPT",
+  "author_name": "Significant-Gravitas",
+  "file_url": "projects_watched/Auto-GPT _ Significant-Gravitas.json"
+}
