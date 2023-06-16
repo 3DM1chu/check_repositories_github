@@ -1,0 +1,236 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 11, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "8e0cf71960b9a5418acb60a1910cf3295d67e6bf"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Mar 30, 2023",
+      "commit_title": "This include is required in newer versions of libavformat/libavcod",
+      "commit_id": "72facd06aa7b23c18b8d27d905f5df3a828a650e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Nov 11, 2021",
+      "commit_title": "Output time offset not adjusted during single r",
+      "commit_id": "be5390d00ff475b6543eb0140c7e65b34317d95b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 30, 2021",
+      "commit_title": "ffmpeg 4.4 compilation fixes for Windo",
+      "commit_id": "eee5ce65e667abae5d9bc244865bb32c38e8f127"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 29, 2021",
+      "commit_title": "removed rust dependency on Windo",
+      "commit_id": "02cce6df3777c8cce575a40af81cc1adcddecd5b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 27, 2021",
+      "commit_title": "2-letter language codes in batch processi",
+      "commit_id": "e5e9ff14a764519f59ba453286b7e41a815292b2"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 18, 2021",
+      "commit_title": "fixed AttributeError excepti",
+      "commit_id": "7777db9bb44de22251cadf90ced416b3b30e8f55"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 23, 2021",
+      "commit_title": "added support for Persian langua",
+      "commit_id": "2fa9a723c04013935ebdb59529862ab0a2e2b4fb"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Dec 10, 2020",
+      "commit_title": "fixed GTK themes for snap bui",
+      "commit_id": "57f66724ed2692e4dad0b7bf557acb5970696de7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jul 23, 2020",
+      "commit_title": "fixed skipping events in BatchLi",
+      "commit_id": "967410bc4514bd62843105d234862e401a9f9e62"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jul 20, 2020",
+      "commit_title": "removed gizmo mentions from install gui",
+      "commit_id": "fc8348411a65d81a8640ec908a78993830228fa0"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jul 19, 2020",
+      "commit_title": "ignore invalid log file pa",
+      "commit_id": "8a735720b2c61c4f80830f2e6b13b21b0402f5c4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jul 5, 2020",
+      "commit_title": "Synchronizer optimizati",
+      "commit_id": "a51e42f6aa9ac9ca781a8177babf57a2bf72d61e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 21, 2020",
+      "commit_title": "AssetManager refact",
+      "commit_id": "e1434b2dbfce0cc2d19c160b916218d56e61ca90"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 9, 2020",
+      "commit_title": "fallback for truncated or non-seekable fi",
+      "commit_id": "4ace0eb0133add74b1552ee3a4f604dc5f1a1c85"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 7, 2020",
+      "commit_title": "Synchronizer refact",
+      "commit_id": "d448e0cf0cf302a1aff94c2c58ce71078ea05af8"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 5, 2020",
+      "commit_title": "BatchWin using SyncControll",
+      "commit_id": "a5055979185dff5d98e552252290d31bcc4e1be8"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 4, 2020",
+      "commit_title": "SyncController improvements, used by SyncW",
+      "commit_id": "e2609b073fd481cd449296c96c291201e3179dd3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 3, 2020",
+      "commit_title": "separated synchronization logic from SyncWin to SyncController cla",
+      "commit_id": "cdae55f6b0044466168903ccc9b48139d8fbee9a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 1, 2020",
+      "commit_title": "command line options refactor",
+      "commit_id": "9bac040d5fa0cb5ce4bb548c8693e5cff64c9b7e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 30, 2020",
+      "commit_title": "reduce threads no on multi-core syste",
+      "commit_id": "ae158c61306f9bfc1ad3acdedd5a126ec525a91c"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 28, 2020",
+      "commit_title": "optimized Utf8 lower/upper case conversi",
+      "commit_id": "41f2ea04e469b86a6a8889c7e6eb7a029575b296"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 24, 2020",
+      "commit_title": "added points coverage indicator to gizmo.CorrelationSta",
+      "commit_id": "584a1a1276d4dcd688c2e1b39eb443c93694a131"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 22, 2020",
+      "commit_title": "subtitle duration calculated based on content for subs without end ti",
+      "commit_id": "a8b126cefc39de6654ba0e22f38d84d7ab420457"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 21, 2020",
+      "commit_title": "SettingsWin layout improvemen",
+      "commit_id": "f22b478d3df9dfff2434bd2b6e3619e0e6672a0b"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    },
+    {
+      "py/id": 13
+    },
+    {
+      "py/id": 14
+    },
+    {
+      "py/id": 15
+    },
+    {
+      "py/id": 16
+    },
+    {
+      "py/id": 17
+    },
+    {
+      "py/id": 18
+    },
+    {
+      "py/id": 19
+    },
+    {
+      "py/id": 20
+    },
+    {
+      "py/id": 21
+    },
+    {
+      "py/id": 22
+    },
+    {
+      "py/id": 23
+    },
+    {
+      "py/id": 24
+    },
+    {
+      "py/id": 25
+    },
+    {
+      "py/id": 26
+    }
+  ],
+  "link": "https://github.com/sc0ty/subsync/",
+  "repo_name": "subsync",
+  "author_name": "sc0ty",
+  "file_url": "projects_watched/subsync _ sc0ty.json"
+}

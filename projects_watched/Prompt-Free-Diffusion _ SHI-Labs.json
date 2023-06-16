@@ -1,0 +1,65 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 6, 2023",
+      "commit_title": "minor upda",
+      "commit_id": "2006cba4ccd7aa730ac4936ef6b184185c97fc70"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 1, 2023",
+      "commit_title": "Merge branch 'master' ",
+      "commit_id": "0016b6f2d926ea8fe7119e1852d879dfadd79a69"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 30, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "44d83873202de7573decb2fa5b3bb191b9d24cca"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 27, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "856d3babd1c892971913002c08134cbf5b8571a9"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 26, 2023",
+      "commit_title": "",
+      "commit_id": "13222930ae955dd7f43b1adc56fbd10224b3e80f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 25, 2023",
+      "commit_title": "codesy",
+      "commit_id": "85f218834d729068cc6b2df4f08093c5991f9c33"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    }
+  ],
+  "link": "https://github.com/SHI-Labs/Prompt-Free-Diffusion/",
+  "repo_name": "Prompt-Free-Diffusion",
+  "author_name": "SHI-Labs",
+  "file_url": "projects_watched/Prompt-Free-Diffusion _ SHI-Labs.json"
+}

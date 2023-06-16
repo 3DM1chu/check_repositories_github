@@ -112,5 +112,5 @@ if __name__ == "__main__":  # Makes sure this is the main process
     #config.read_github_projects(updater)
     #updater.checkAllProjectsAndSendEmail()
 
-    github_project = GithubProjectHistory(link="https://github.com/awesome-foss/awesome-sysadmin")
+    github_project = GithubProjectHistory(link="https://github.com/imartinez/privateGPT")
     github_project.parseCommitsFromServer()

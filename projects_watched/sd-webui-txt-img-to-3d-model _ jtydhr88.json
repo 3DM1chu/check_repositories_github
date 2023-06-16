@@ -1,0 +1,38 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 13, 2023",
+      "commit_title": "add guidance_scale and s_churn control suppo",
+      "commit_id": "a49e0764b8e2ed44b0f6785be3f6e1d7b008c6f0"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 11, 2023",
+      "commit_title": "add use_fp16 and clip_denoised control suppo",
+      "commit_id": "88c6f7bb1a688ef391b1f9c47ffc7ad993331c4f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 9, 2023",
+      "commit_title": "use pil directl",
+      "commit_id": "a00a9e9e1f186823a47dcd6e771b163892e73bda"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    }
+  ],
+  "link": "https://github.com/jtydhr88/sd-webui-txt-img-to-3d-model/",
+  "repo_name": "sd-webui-txt-img-to-3d-model",
+  "author_name": "jtydhr88",
+  "file_url": "projects_watched/sd-webui-txt-img-to-3d-model _ jtydhr88.json"
+}

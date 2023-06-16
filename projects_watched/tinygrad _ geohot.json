@@ -1,0 +1,101 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 16, 2023",
+      "commit_title": "faster RDNA assembly backend",
+      "commit_id": "fe71282ba15f9bfe8f31bc10b8320e890497ba07"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 15, 2023",
+      "commit_title": "delete ltypes",
+      "commit_id": "039f0d372f5ecf7beaf4c235819399d4b6109f3d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 14, 2023",
+      "commit_title": "FIX: Can't pickle local object",
+      "commit_id": "804c45b5fc17fc6b9032dbfde7ba12bcf141ba7b"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 13, 2023",
+      "commit_title": "Fix typo",
+      "commit_id": "45bc040a630fd41d6ed771df29f771f09f892091"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 12, 2023",
+      "commit_title": "cuda: fix fp16, uint8, int64, half4 codegen",
+      "commit_id": "5f13e7c3cf10144929649637df8e3312fad6f3e7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 10, 2023",
+      "commit_title": "Adds tril & triu support",
+      "commit_id": "2d4370b4879b9ba1a924bcaf1127a1135ae39e19"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 9, 2023",
+      "commit_title": "Test nllloss",
+      "commit_id": "c0e558b77cc97df29e537c73d7a7604f52472093"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 8, 2023",
+      "commit_title": "fixes to Onnx ops LayerNormalization/Prelu and added OptionalHasElem",
+      "commit_id": "6b1280f01caf3d183bdd29a21246cab8d58229bc"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 6, 2023",
+      "commit_title": "there is a better way to do that!",
+      "commit_id": "e8a23d43311ad751bb23919657e76a0e7382358d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 5, 2023",
+      "commit_title": "fix test_pow_type - autocasting for Pow with inputs of diff type",
+      "commit_id": "079ea217a38bc90ce8e64137cf7d04d664ad9db6"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    }
+  ],
+  "link": "https://github.com/geohot/tinygrad/",
+  "repo_name": "tinygrad",
+  "author_name": "geohot",
+  "file_url": "projects_watched/tinygrad _ geohot.json"
+}

@@ -1,0 +1,47 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 16, 2023",
+      "commit_title": "basic redirect",
+      "commit_id": "eaee492dbc60463a889e5594c1c5f1573c38eca0"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 15, 2023",
+      "commit_title": "Feature/add acreom loader",
+      "commit_id": "1913320cbecda523f5c792b7ebe1b419e422e4da"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 14, 2023",
+      "commit_title": "feat: add content_format param to ConfluenceLoader.load()",
+      "commit_id": "7ad13cdbdbd45b1348f199419da836bdbcbc02e2"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 13, 2023",
+      "commit_title": "Return session name in runner response",
+      "commit_id": "b3b155d488e84d55ae253d15e68ec9b876c003a7"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    }
+  ],
+  "link": "https://github.com/hwchase17/langchain/",
+  "repo_name": "langchain",
+  "author_name": "hwchase17",
+  "file_url": "projects_watched/langchain _ hwchase17.json"
+}

@@ -1,0 +1,101 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 15, 2023",
+      "commit_title": "fix ccl_backend and residual_add problems",
+      "commit_id": "3f5e4931098bf533f8217afb6d986c90f81aed80"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 14, 2023",
+      "commit_title": "add Chinese Zhihu social account",
+      "commit_id": "b692d236d50a3cf7716653fc1d98166bd5385ae5"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 13, 2023",
+      "commit_title": "Fix output transpose dimension bugs",
+      "commit_id": "cd911f9ab2213edb0c8781bd5fd604c37c020dfb"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 12, 2023",
+      "commit_title": "FP8 unittest for H100",
+      "commit_id": "6f4fc30b5823f0a6222617a99093e6ab7f52c1a4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 9, 2023",
+      "commit_title": "Documentation for DeepSpeed Accelerator Abstraction Interface",
+      "commit_id": "5289d691d36e5f7a22e99954c82038e0dbc64c52"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 8, 2023",
+      "commit_title": "Increase tensor creator coverage",
+      "commit_id": "046afcedb4f975ea082f778796ae7ebbf961cf60"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 7, 2023",
+      "commit_title": "Small tweak on cuda version mismatch documentation",
+      "commit_id": "d414678df77c8a6fb4bc112fb0aa3bd81d677d3f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 6, 2023",
+      "commit_title": "fix typo name",
+      "commit_id": "f2f5f21b52a82de75c85abd190ecd328ce762c5a"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 5, 2023",
+      "commit_title": "fix some typo",
+      "commit_id": "3fb3cfdced941d8c7856c020812054141f8eab2c"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 2, 2023",
+      "commit_title": "bump to 0.9",
+      "commit_id": "f483c0348bc141e40f2db44346d32f28da54ad4b"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    }
+  ],
+  "link": "https://github.com/microsoft/DeepSpeed/",
+  "repo_name": "DeepSpeed",
+  "author_name": "microsoft",
+  "file_url": "projects_watched/DeepSpeed _ microsoft.json"
+}

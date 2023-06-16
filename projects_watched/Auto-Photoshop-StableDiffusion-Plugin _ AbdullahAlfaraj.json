@@ -1,0 +1,110 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 13, 2023",
+      "commit_title": "Update Supporter Li",
+      "commit_id": "4641f86be594f50f28376e2079238f729fab9ea3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 7, 2023",
+      "commit_title": "Update Supporters li",
+      "commit_id": "e0ac2834a286812fd65eeaf6c79d30cff9dd3c40"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 6, 2023",
+      "commit_title": "Finalize v1.2.5 Relea",
+      "commit_id": "573187246f171fb72d22d9f736dd4cfbb464342f"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 5, 2023",
+      "commit_title": "removing dead code and commen",
+      "commit_id": "745d541a6298ce58ea8a135349978c864106836d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 4, 2023",
+      "commit_title": "Merge branch 'dev_1.2.6' into mast",
+      "commit_id": "d24a8e9acd11bc892c85c04fc7944c6013ccb71e"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 3, 2023",
+      "commit_title": "fix: concatenate always on scrip",
+      "commit_id": "33e79546a7f75b02a6ee88605233f953117468d0"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 2, 2023",
+      "commit_title": "add Vae menu in the settings t",
+      "commit_id": "bd0074e7f558e36a0003257ac0a1a34c8a9ae572"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 1, 2023",
+      "commit_title": "only initialize controlnet on",
+      "commit_id": "e121da41539e73add8d53959c7d40ac4ef25b691"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 31, 2023",
+      "commit_title": "Update Supporters Li",
+      "commit_id": "a23bb3b91ef609201dd9f4d6a93273c4ce9a1099"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 30, 2023",
+      "commit_title": "Update Supporters Li",
+      "commit_id": "edb4964e676815947e5317fadfc6f0ca47fdf773"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 29, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "3398faef6cdbd0f2502a3a265e8b774c311a8bd7"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    }
+  ],
+  "link": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/",
+  "repo_name": "Auto-Photoshop-StableDiffusion-Plugin",
+  "author_name": "AbdullahAlfaraj",
+  "file_url": "projects_watched/Auto-Photoshop-StableDiffusion-Plugin _ AbdullahAlfaraj.json"
+}

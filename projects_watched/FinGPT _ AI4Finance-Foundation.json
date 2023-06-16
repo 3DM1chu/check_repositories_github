@@ -1,0 +1,128 @@
+{
+  "py/object": "__main__.GithubProjectHistory",
+  "commits": [
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 13, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "f8c9e1b9f71f6391e1b5c0871f3ca9bd31f41ae7"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Jun 12, 2023",
+      "commit_title": "Merge pull reque",
+      "commit_id": "6aaabff057b4888116d4f43450d710eeb8f041aa"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 28, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "4b1c95dc52067c8192fedeccdaf091c677fc4da4"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 18, 2023",
+      "commit_title": "updates on FinGPT-",
+      "commit_id": "caf164591199a63eaa815688a09c36553b7887cb"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 12, 2023",
+      "commit_title": "updates on FinGPT-",
+      "commit_id": "6f232784b0a975748dbee7353f4cbbeae4b979a3"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 11, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "53f3f348d4bb346562e04fde4e25c89fa85cf8a5"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "May 5, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "60e2ce0e3158629492ef9d360d1ee7e5e9c5de9d"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 24, 2023",
+      "commit_title": "Updated on FinGPT-",
+      "commit_id": "b675f7da4f97dc20f48c54cbd7eea7b60f9430c0"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 22, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "048d95b9678ae97aa5ee17585f6db23f77136f17"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 14, 2023",
+      "commit_title": "Merge branch 'master' ",
+      "commit_id": "3b3963f696314de36520f0f7c72df6806c061e93"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 10, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "f3e831acb5c0537f7d72d5049ef2e86106f4f933"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 9, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "a43fbe587abb48cc278f78e638c151c1901014fb"
+    },
+    {
+      "py/object": "__main__.Commit",
+      "commit_date": "Apr 8, 2023",
+      "commit_title": "Update README.",
+      "commit_id": "e74c77a9e6d5d526dec02fd1517023c93a399ba6"
+    }
+  ],
+  "new_commits": [
+    {
+      "py/id": 2
+    },
+    {
+      "py/id": 3
+    },
+    {
+      "py/id": 4
+    },
+    {
+      "py/id": 5
+    },
+    {
+      "py/id": 6
+    },
+    {
+      "py/id": 7
+    },
+    {
+      "py/id": 8
+    },
+    {
+      "py/id": 9
+    },
+    {
+      "py/id": 10
+    },
+    {
+      "py/id": 11
+    },
+    {
+      "py/id": 12
+    },
+    {
+      "py/id": 13
+    },
+    {
+      "py/id": 14
+    }
+  ],
+  "link": "https://github.com/AI4Finance-Foundation/FinGPT/",
+  "repo_name": "FinGPT",
+  "author_name": "AI4Finance-Foundation",
+  "file_url": "projects_watched/FinGPT _ AI4Finance-Foundation.json"
+}
